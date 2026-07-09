@@ -1,13 +1,12 @@
-<h1 align="center">Hi, I'm Prakriti Jain 👋</h1>
+<h1 align="center">Hi, I am Prakriti Jain 👋</h1>
 
 <p align="center">
 Data Engineer with 3+ years of experience building scalable data pipelines and cloud-native data architectures
 </p>
 
 <p align="center">
-📍 Walldorf, Germany &nbsp;|&nbsp;
+📍 Heidelberg, Germany &nbsp;|&nbsp;
 🎓 M.Sc. Data and Computer Science, Universität Heidelberg &nbsp;|&nbsp;
-✅ Eligible to work in Germany
 </p>
 
 <p align="center">
