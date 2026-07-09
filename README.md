@@ -5,8 +5,9 @@ Data Engineer with 3+ years of experience building scalable data pipelines and c
 </p>
 
 <p align="center">
-📍 Heidelberg, Germany &nbsp;|&nbsp;
+📍 Walldorf, Germany &nbsp;|&nbsp;
 🎓 M.Sc. Data and Computer Science, Universität Heidelberg &nbsp;|&nbsp;
+✅ Eligible to work in Germany
 </p>
 
 <p align="center">
@@ -65,12 +66,13 @@ I design and orchestrate ETL/ELT pipelines and build cloud-native data platforms
 
 | Project | Description |
 |---|---|
+| 🧠 [mcdo-yolo-uncertainty-estimation](https://github.com/Prakritijain11/mcdo-yolo-uncertainty-estimation) | Master's thesis: evaluating YOLOv8 robustness to 19 image corruption types and using Monte Carlo Dropout for uncertainty estimation on MS-COCO |
 | 🏗️ [dbt-databricks-retail-pipeline](https://github.com/Prakritijain11/dbt-databricks-retail-pipeline) | A layered dbt project (bronze → silver → gold) transforming retail sales data in Databricks |
 | 📊 [crm-sales-funnel-analytics-dbt](https://github.com/Prakritijain11/crm-sales-funnel-analytics-dbt) | dbt project modeling a CRM sales funnel with staging → intermediate → marts architecture |
 | 📈 [vendor-performance-analysis](https://github.com/Prakritijain11/Exploratory-Data-Analysis) | End-to-end pipeline + EDA turning raw retail transactions into vendor profitability insights |
 | 🌍 [OSMAlert](https://github.com/Prakritijain11/OSMAlert-SWE) | Real-time OSM change notification system built with Apache Flink — 7-person master's team project |
 
-*(See pinned repos below for more, including my thesis work on uncertainty estimation in object detection and a reinforcement learning Bomberman agent.)*
+*(See pinned repos below for more, including a reinforcement learning Bomberman agent and a distributed/parallel algorithms project.)*
 
 ---
 
