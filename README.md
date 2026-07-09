@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Prakriti Jain 👋</h1>
 
 <p align="center">
-I have 7+ years of experience in Data Engineering and Analytics, where I have used unstructured and raw data for analytics and decision-making. I have skills in machine learning, deep learning, and Computer vision, and I focus on the creation of smart and intelligent systems that can support automation and data-driven evaluations
+Experienced in Data Engineering and Analytics for 7+ years, where I have used unstructured and raw data for analytics and decision-making. I have skills in machine learning, deep learning, and Computer vision, and I focus on the creation of smart and intelligent systems that can support automation and data-driven evaluations
 </p>
 
 <p align="center">
