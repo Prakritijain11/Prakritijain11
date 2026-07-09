@@ -1,16 +1,86 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Prakriti Jain 👋</h1>
 
-<!--
-**Prakritijain11/Prakritijain11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Data Engineer with 3+ years of experience building scalable data pipelines and cloud-native data architectures
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+📍 Walldorf, Germany &nbsp;|&nbsp;
+🎓 M.Sc. Data and Computer Science, Universität Heidelberg &nbsp;|&nbsp;
+✅ Eligible to work in Germany
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://www.linkedin.com/in/prakriti-jain-184636161/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="mailto:prakriti.ps.jain@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+## About Me
+
+I design and orchestrate ETL/ELT pipelines and build cloud-native data platforms across AWS, Azure, Databricks, and Snowflake. At IQVIA, I reduced ETL runtimes by 30% and maintained 99.5% data accuracy across analytics workflows serving 90+ countries in the pharmaceutical domain. I recently completed my Master's at Heidelberg University, where I also worked as a Student Research Assistant building Databricks/PySpark pipelines.
+
+- 🔭 Currently exploring modern data stack tools: Dagster, dbt, Delta Lake
+- 🌱 Recently completed Databricks Fundamentals Accreditation
+- 💬 Ask me about ETL/ELT pipelines, dbt, data modeling, or Databricks/Snowflake architectures
+- 🌐 Languages: English (C1), German (B1), Hindi (native)
+
+---
+
+## Tech Stack
+
+**Cloud & Data Platforms**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+
+**Orchestration & Transformation**
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-6A4CFF?style=flat&logo=dagster&logoColor=white)
+
+**Programming & Data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+
+**Streaming & Integration**
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=flat&logo=apacheflink&logoColor=white)
+
+**DevOps & Quality**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+**Machine Learning (secondary)**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| 🏗️ [dbt-databricks-retail-pipeline](https://github.com/Prakritijain11/dbt-databricks-retail-pipeline) | A layered dbt project (bronze → silver → gold) transforming retail sales data in Databricks |
+| 📊 [crm-sales-funnel-analytics-dbt](https://github.com/Prakritijain11/crm-sales-funnel-analytics-dbt) | dbt project modeling a CRM sales funnel with staging → intermediate → marts architecture |
+| 📈 [vendor-performance-analysis](https://github.com/Prakritijain11/Exploratory-Data-Analysis) | End-to-end pipeline + EDA turning raw retail transactions into vendor profitability insights |
+| 🌍 [OSMAlert](https://github.com/Prakritijain11/OSMAlert-SWE) | Real-time OSM change notification system built with Apache Flink — 7-person master's team project |
+
+*(See pinned repos below for more, including my thesis work on uncertainty estimation in object detection and a reinforcement learning Bomberman agent.)*
+
+---
+
+## Experience Highlights
+
+- **Heidelberg University** — Student Research Assistant (2024–2025): Databricks ETL pipeline ingesting 500K+ records, PySpark transformations into Delta Lake
+- **IQVIA** — Data Engineer (2019–2022): Airflow + dbt orchestration, star-schema dimensional modeling, 10M+ records/run
+- **IQVIA** — Data Analyst (2015–2019): MIDAS/Consumer Health databases across 90+ countries, Power BI data quality dashboards
+
+---
+
+<p align="center"><i>Thanks for stopping by! Feel free to reach out via LinkedIn or email.</i></p>
