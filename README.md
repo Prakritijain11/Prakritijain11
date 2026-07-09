@@ -11,8 +11,15 @@ Data Engineer with 3+ years of experience building scalable data pipelines and c
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/prakriti-jain-184636161/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="mailto:prakriti.ps.jain@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white">
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white">
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
 </p>
 
 ---
@@ -45,6 +52,9 @@ I design and orchestrate ETL/ELT pipelines and build cloud-native data platforms
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white)
 
 **Streaming & Integration**
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
@@ -55,10 +65,13 @@ I design and orchestrate ETL/ELT pipelines and build cloud-native data platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
-**Machine Learning (secondary)**
+**Machine Learning & Data Science**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ---
 
@@ -84,4 +97,4 @@ I design and orchestrate ETL/ELT pipelines and build cloud-native data platforms
 
 ---
 
-<p align="center"><i>Thanks for stopping by! Feel free to reach out via LinkedIn or email.</i></p>
+<p align="center"><i>Thanks for stopping by! 👋</i></p>
