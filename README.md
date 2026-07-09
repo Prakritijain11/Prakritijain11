@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Prakriti Jain 👋</h1>
 
 <p align="center">
-Data Engineer with 3+ years of experience building scalable data pipelines and cloud-native data architectures
+I have 7+ years of experience in Data Engineering and Analytics, where I have used unstructured and raw data for analytics and decision-making. I have skills in machine learning, deep learning, and Computer vision, and I focus on the creation of smart and intelligent systems that can support automation and data-driven evaluations
 </p>
 
 <p align="center">
@@ -55,6 +55,10 @@ I design and orchestrate ETL/ELT pipelines and build cloud-native data platforms
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white)
+
+**BI & Visualization**
+![Power BI](https://img.shields.io/badge/PowerBI-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 **Streaming & Integration**
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
