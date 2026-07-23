@@ -95,9 +95,9 @@ I design and orchestrate ETL/ELT pipelines and build cloud-native data platforms
 
 ## Experience Highlights
 
-- **Heidelberg University** — Student Research Assistant (2024–2025): Databricks ETL pipeline ingesting 500K+ records, PySpark transformations into Delta Lake
-- **IQVIA** — Data Engineer (2019–2022): Airflow + dbt orchestration, star-schema dimensional modeling, 10M+ records/run
-- **IQVIA** — Data Analyst (2015–2019): MIDAS/Consumer Health databases across 90+ countries, Power BI data quality dashboards
+- **Heidelberg University** - Student Research Assistant (2024–2025): Databricks ETL pipeline ingesting 500K+ records, PySpark transformations into Delta Lake
+- **IQVIA** - Data Engineer (2019–2022): Airflow + dbt orchestration, star-schema dimensional modeling, 10M+ records/run
+- **IQVIA** - Data Analyst (2015–2019): MIDAS/Consumer Health databases across 90+ countries, Power BI data quality dashboards
 
 ---
 
